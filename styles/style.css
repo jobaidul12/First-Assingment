@@ -1,6 +1,89 @@
 *{
-     background-color: #F1F1F3;
+     margin: 0px 35px;
+     padding: 0px;
+     /* background-color: #F1F1F3; */
+
 }
-p{
-     background-color: white;
+.navigation-sec{
+     display: flex;
+     justify-content: space-between;
+     margin: 31px 0px;
+}
+.Bangles2 {
+     font-size: 32px;
+     margin-left: 0px;
+}
+.sign-in-btn{
+     font-size: 18px;
+     border-radius: 8px;
+     padding: 15px 30px;
+     color: #006A50;
+     border: 1px solid #006A50;
+}
+.title-1{
+     color: #0E0E0E;
+     opacity: 50%;
+     font-size: 24px;
+     margin-bottom: 16px;
+}
+.main-title{
+     font-size: 56px;
+     margin-bottom: 24px;
+     color: #0E0E0E;
+
+}
+.banner-btn{
+     font-size: 18px;
+     font-weight: 500;
+     padding: 17px 34px;
+     border-radius: 8px;
+     color: white;
+     background-color: #006A50;
+
+}
+.banner{
+     background-color: #C6E4D6;
+     display: flex;
+     justify-content: space-evenly;
+     border-radius: 24px;
+     
+}
+.banner-title{
+     margin: 120px 60px;
+}
+.banner-img{
+     margin: 80px 0px 80px 60px;
+}
+.pillar-of-BD-title{
+     margin-top: 80px;
+     margin-bottom: 32px;
+     font-size: 40px;
+    
+}
+.optional-section{
+     display: flex;
+     justify-content: space-evenly;
+   background-color: aliceblue;   
+     
+}
+.inovation{
+     border-radius: 16px;
+     padding: 24px;
+     margin: 10px;
+}
+.the-vision-of-future{
+     font-size: 40px;
+     margin-top: 24px;
+     margin-bottom: 24px;
+}
+.introduction{
+     font-size: 16px;
+     margin-bottom: 32px;
+}
+.vision-of-future{
+     display: flex;
+     justify-content: space-evenly;
+     margin: 0 auto;
+     height: 325px;
+
 }
